@@ -1,2 +1,2 @@
 # termos
-A terminal based operating system program inspired by MS-DOS
+A terminal based executeble program inspired by MS-DOS Operating System
